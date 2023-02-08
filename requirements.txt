@@ -1,0 +1,10 @@
+pandas
+plotly
+seaborn
+wordcloud
+counter
+emoji
+URLExtract
+re
+numpy
+streamlit

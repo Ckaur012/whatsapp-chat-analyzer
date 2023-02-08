@@ -5,6 +5,5 @@ wordcloud
 counter
 emoji
 URLExtract
-re
 numpy
 streamlit
